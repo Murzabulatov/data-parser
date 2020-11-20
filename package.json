@@ -1,0 +1,17 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Salavat Murzabulatov",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "needle": "^2.5.2",
+    "nodemon": "^2.0.6"
+  }
+}
